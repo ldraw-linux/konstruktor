@@ -1,0 +1,19 @@
+konstruktor (0.9-beta2-1) unstable; urgency=high
+
+  * compatibility fix
+  * stripped KDE dependency out
+
+ -- Park Joon-Kyu <segfault87@gmail.com>  Thu, 17 May 2012 00:41:35 +0900 
+
+konstruktor (0.9-beta1-2) unstable; urgency=low
+
+  * repackaged for Ubuntu Lucid
+  * added toolbar icons
+
+ -- Park Joon-Kyu <mastermind@planetmono.org>  Sun, 06 Feb 2011 18:26:46 +0900
+
+konstruktor (0.9-beta1-1) unstable; urgency=low
+
+  * Initial beta release. 
+
+ -- Park Joon-Kyu <mastermind@planetmono.org>  Tue, 01 Feb 2011 19:54:55 +0900
